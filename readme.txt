@@ -2,8 +2,8 @@
 2. extract
 3. copy windows-fonts folder to:
 
-mac: ~/Library/Fonts/ (local user) /Library/Fonts/ (system wide)
-linux/bsd: ~/.local/share/fonts/ (local user) /usr/local/share/fonts/
+mac: ~/Library/Fonts/ (local user) or/and /Library/Fonts/ (system wide)
+linux/bsd: ~/.local/share/fonts/ (local user) or/and /usr/local/share/fonts/ (system wide)
 
 linux quick:
 
